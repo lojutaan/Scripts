@@ -1,0 +1,13 @@
+{
+    "pocket": {
+        "consumer_key": "key_here",
+        "access_token": "token_here"
+
+    },
+    "save": {
+        "timestamp_file_path": "/path/to/data.json"
+    },
+    "archivebox": {
+        "container_name": "name_of_your_archivebox_container"
+    }
+}
